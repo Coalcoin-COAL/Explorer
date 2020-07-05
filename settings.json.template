@@ -10,10 +10,10 @@
   "address": "127.0.0.1:3001",
 
   // coin name
-  "coin": "Darkcoin",
+  "coin": "Coalcoin",
 
   // coin symbol
-  "symbol": "DRK",
+  "symbol": "COAL",
 
   // logo
   "logo": "/images/logo.png",
@@ -50,9 +50,9 @@
 
   "wallet": {
     "host": "localhost",
-    "port": 9332,
-    "username": "darkcoinrpc",
-    "password": "123gfjk3R3pCCVjHtbRde2s5kzdf233sa"
+    "port": 2332,
+    "username": "coalcoinrpcuser",
+    "password": "sovieticrpcpassword"
   },
 
   // confirmations
